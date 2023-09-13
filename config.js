@@ -11,19 +11,19 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = ['HanzoBotz']
-global.namaowner = ['Lord Kaze']
-global.owner = ['6282217590187']
-global.premium = ['6282217590187']
-global.Log = '\n『々Lord』KAZE☆☆☆'//console log gerak nya:v
-global.packname = '© Powered By'
-global.author = 'HanzoBotz || Kaze'
+global.namabot = ['Gracell']
+global.namaowner = ['Elyazer']
+global.owner = ['6282136432456']
+global.premium = ['6282136432456']
+global.Log = '\n『々Lord』EL☆☆☆'//console log gerak nya:v
+global.packname = '© Powered By EL'
+global.author = 'GracellBotz || EL'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© HanzoBotz made by KazeDevID'
+global.wm = '© Gracell made by ElDevID'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
